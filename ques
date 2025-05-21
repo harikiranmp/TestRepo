@@ -1,0 +1,17 @@
+how do you create resources on multiple clouds
+how do you specify terraform to use a particular module
+what do you do if someone accidentally deletes statefile in backend
+Can we connect two clouds
+What all you establish for public subnet and private subnet
+how do you trouble shoot probe failures if there is some issue with the application
+how do troubleshoot stopped docker container
+what happens in backend when you run kubectl
+how do you tag/version application image in cicd pipeline
+can we run helm inside argo cd
+How do you handle security part in k8s
+How do you ensure Argocd is running correct configurations in k8s
+How do you customize a docker image
+How do you backup your k8s cluster other than etcd backup
+How do you upgrade eks
+What all checks you do before doing some upgrade on k8s
+Can you use a same service acccount for multiple clouds on terraform 
